@@ -16,6 +16,6 @@
 
 #### 📚 Learning
 
-- 데이터 부트캠프 수강 중 (2026.07 ~ 2027.01)
+- 6개월 몰입 중 (2026.07 ~ 2027.01)
 - 매일의 학습 기록 → [Practice](https://github.com/joonieee0623/Practice)
 
