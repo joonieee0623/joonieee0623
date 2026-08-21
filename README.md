@@ -40,7 +40,7 @@
 
 ### 🟩 Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jasonlong/jailbreak/main/pacman.gif" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joonieee0623&theme=react-dark&bg_color=0D1117" width="100%"/>
 </div>
 
 <br/>
