@@ -1,4 +1,3 @@
-<!-- Header / Capsule Hits Counter -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon%20Choi&fontSize=60&animation=fadeIn" width="100%"/>
   
@@ -9,8 +8,7 @@
 
 <br/>
 
-### 안녕하세요, 최주원입니다 👋
-
+### 🙋‍♂️ About Me
 안녕하세요! **전산세무회계 8년 경력**의 정교한 데이터 관리 역량을 바탕으로 **데이터·개발·Physical AI** 분야로 도약 중인 **최주원**입니다. 🚀
 
 * 💡 **도메인 강점**: 8년간 단련된 세무/회계 데이터 정밀 분석 및 문제 해결 능력
@@ -18,6 +16,7 @@
 * ⏱️ **몰입 기간**: `2026.08 ~ 2027.01` (짧은 기간 동안 강도 높은 몰입 학습 진행 중!)
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### Languages & Data Analysis
@@ -36,16 +35,17 @@
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+### 🎓 Licenses & Goals
+- [ ] **SQLD** (SQL 개발자)
+- [ ] **ADsP** (데이터분석 준전문가)
+- [ ] **DAsP** (데이터아키텍처 준전문가)
+- [ ] **정보처리기사**
+- [ ] **SQLP / ADP / DAP** (전문가 자격증)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joonieee0623&show_icons=true&theme=radial&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonieee0623&layout=compact&theme=radial&hide_border=true" height="170"/>
-</div>
+---
 
 <br/>
 
----
 <div align="center">
   매일의 학습 기록 ➡️ <a href="https://github.com/joonieee0623/Practice"><b>Practice Repository 바로가기</b></a>
 </div>
