@@ -35,15 +35,6 @@
 
 ---
 
-### 🎓 Licenses & Goals
-- [ ] **SQLD** (SQL 개발자)
-- [ ] **ADsP** (데이터분석 준전문가)
-- [ ] **DAsP** (데이터아키텍처 준전문가)
-- [ ] **정보처리기사**
-- [ ] **SQLP / ADP / DAP** (전문가 자격증)
-
----
-
 <br/>
 
 <div align="center">
