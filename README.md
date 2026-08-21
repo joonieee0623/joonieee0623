@@ -17,7 +17,6 @@
 * 🎯 **목표**: Physical AI 및 데이터 기반 솔루션을 다루는 엔지니어링 역량 확보
 * ⏱️ **몰입 기간**: `2026.08 ~ 2027.01` (짧은 기간 동안 강도 높은 몰입 학습 진행 중!)
 
-<br/>
 ---
 ### 🛠️ Tech Stack
 
@@ -34,7 +33,8 @@
 #### Tools & VCS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<br/>
+
+---
 
 ### 📊 GitHub Stats & Top Languages
 
