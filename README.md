@@ -9,7 +9,7 @@
 - 💡 **도메인 강점**: 8년간 숫자·데이터를 정확하게 다뤄 온 습관, 실무에서 다져진 커뮤니케이션·협업 역량
 - 🎯 **목표**: Physical AI 및 데이터 기반 솔루션을 다루는 엔지니어링 역량 확보
 - ⏱️ **몰입 기간**: `2026.08 ~ 2027.01` (짧은 기간 동안 강도 높은 몰입 학습 진행 중!)
-- 📜 **자격증 목표**: DAsP · ADsP · SQLD (2026 하반기) → SQLP · ADP · 정보처리기사 (2027 상반기)
+- 📜 **자격증 목표**: DAsP ✅ · ADsP · SQLD (2026 하반기) → SQLP · ADP · 정보처리기사 (2027 상반기)
 
 ---
 
@@ -31,16 +31,25 @@
 #### Web
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/joonieee0623)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/joonieee0623)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/joonieee0623)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/joonieee0623)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/joonieee0623)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joonieee0623)
 [![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=json&logoColor=white)](https://github.com/joonieee0623)
 
+#### AI & LLM
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/joonieee0623)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/joonieee0623)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/joonieee0623)
+
 #### Tools & VCS
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/joonieee0623)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joonieee0623)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/joonieee0623)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/joonieee0623)
 
 ---
 
